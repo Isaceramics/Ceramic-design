@@ -42,8 +42,8 @@
   <main>
     <h2>Welcome to my Ceramics Gallery</h2>
     <div class="gallery">
-      <img src="ceramic1.jpg" alt="Ceramic Piece 1">
-      <img src="ceramic2.jpg" alt="Ceramic Piece 2">
+      <img src="![IMG_4012](https://github.com/Isaceramics/Ceramic-design/assets/157086692/daaca9bd-6cdd-4cc0-a9e5-cbf6baf50d54)" alt="Gingerbread House">
+      <img src="![IMG_3950](https://github.com/Isaceramics/Ceramic-design/assets/157086692/413bc6aa-6e11-4221-ae48-4dc3717179b1)" alt="Ocean Bowl">
       <!-- Add more images as needed -->
     </div>
   </main>
